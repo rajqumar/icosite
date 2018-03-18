@@ -1,0 +1,62 @@
+.col-lg-12.payment-mode-section {
+    margin-top: 40px;
+}
+.col-lg-12.payment-mode-section .heading {
+    font-size: 20px;
+    padding-bottom: 40px;
+}
+.col-lg-12.payment-mode-section {
+    background: rgb(243, 243, 244) none repeat scroll 0 0;
+    border-radius: 6px;
+    padding: 25px 0;
+}
+
+.text-center.mode {
+    background: rgb(24, 166, 137) none repeat scroll 0 0;
+    border-radius: 82px;
+    font-size: 18px;
+    padding: 35px;
+    cursor: pointer;;
+}
+.error-text{
+    color: red;
+    text-align: left;
+}
+.payment-mode-options li {
+    border: 1px solid #666;
+    border-radius: 50px;
+    cursor: pointer;
+    float: left;
+    list-style: outside none none;
+    margin-right: 10px;
+    padding: 9px;
+    text-align: center;
+    width: 200px;
+}
+.selected-bank-option{
+    border:1px solid #ccc;
+    background-color:#18A689 !important;
+    color:#fff;
+}
+.selected-mode-option{
+    border:1px solid #18A689 !important;
+    background-color:#18A689;
+    color:#fff;
+}
+
+.bank-option{
+    margin: 20px; background:#F3F3F4; border-radius: 5px; padding: 5px;
+    cursor: pointer;
+}
+.active .text-primary{
+    color:#18A689 !important;
+}
+.panel-body ul{
+    padding-left: 0px;
+}
+.panel-body li{
+    list-style: none;
+}
+.text-error{
+    color:red;
+}
